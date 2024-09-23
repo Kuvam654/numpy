@@ -27,3 +27,4 @@ What is jupyter notebook?
 
 Go to the folder --> Shift + Right click --> Open with Power shell --> Type "jupyter notebook"
 
+

@@ -27,4 +27,7 @@ What is jupyter notebook?
 
 Go to the folder --> Shift + Right click --> Open with Power shell --> Type "jupyter notebook"
 
+Axis in numpy
+
+![image](https://github.com/user-attachments/assets/cb39b99e-5066-4887-ac48-f35ebc581856)
 
